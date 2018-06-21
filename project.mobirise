@@ -36,9 +36,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "megafollow",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<head>\n    <title>인스타샵적용하기</title>\n    <meta property=\"og:url\" content=\"http://insta-shop.co.kr/\">\n    <meta property=\"og:title\" content=\"인스타샵적용하기\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://images2.imgbox.com/d7/65/0tKHNNqM_o.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n    <meta name=\"description\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n    <meta name=\"keywords\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },

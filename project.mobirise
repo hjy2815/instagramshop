@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-19_1604",
+    "name": "인스타샵",
     "currentPage": "index.html",
     "theme": {
       "name": "storem4",
@@ -30,7 +30,11 @@
     },
     "versionFirst": "4.5.3",
     "uniqCompNum": 25,
-    "versionPublish": "4.5.4"
+    "versionPublish": "4.5.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -38,7 +42,7 @@
         "main": true,
         "title": "megafollow",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>인스타샵적용하기</title>\n    <meta property=\"og:url\" content=\"http://insta-shop.co.kr/\">\n    <meta property=\"og:title\" content=\"인스타샵적용하기\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://images2.imgbox.com/d7/65/0tKHNNqM_o.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n    <meta name=\"description\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n    <meta name=\"keywords\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n</head>\n",
+        "header_custom": "<head>\n    <title>인스타샵적용하기</title>\n    <meta property=\"og:url\" content=\"http://insta-shop.co.kr/\">\n    <meta property=\"og:title\" content=\"인스타샵적용하기\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://images2.imgbox.com/d7/65/0tKHNNqM_o.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n    <meta name=\"description\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n    <meta name=\"keywords\" content=\"인스타그램 샵 제품 태그 설정 가이드\">\n<meta name=\"naver-site-verification\" content=\"973784f3315d171ac35ee666f97de3431d49459c\"/>\n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },
